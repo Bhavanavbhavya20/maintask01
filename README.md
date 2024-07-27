@@ -3,6 +3,13 @@
 
 - TASK 01
 - Internship
+- A simple landing using navigation bar
+
+# Table of Contents
+- Sample screenshot
+- Key Features
+- Technologies Used
+- Set Up
   
 # Sample screenshot
 
@@ -20,3 +27,9 @@
 
 - HTML: For structuring the content.
 - CSS: For styling the layout and design.
+
+# Set Up
+
+To run this project :
+
+- open index.html in your browser to view the landing page
